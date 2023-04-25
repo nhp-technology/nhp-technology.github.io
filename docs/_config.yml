@@ -1,5 +1,5 @@
-url: 'https://nhp-technology.com'
-baseurl: '/'
+url    : "https://www.nhp-technology.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 permalink: pretty
 title: 'NHP Technology'
 email: 'contact@nhp-technology.com'

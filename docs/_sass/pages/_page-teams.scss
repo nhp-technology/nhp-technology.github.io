@@ -24,13 +24,20 @@
         color: $black;
         text-transform: uppercase;
         margin: 0;
-        font-size: 12px;
+        // font-size: 12px;
         font-weight: 500;
       }
     }
     .team-content {
       margin-top: 20px;
       flex: 1 0 100%;
+    }
+    .team-name {
+      font-family: $font-family-heading;
+    }
+    .team-description {
+      font-family: $font-family-heading;
+      font-size: 14px;
     }
   }
 

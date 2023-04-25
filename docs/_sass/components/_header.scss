@@ -17,6 +17,12 @@
     z-index: 10;
     width: 100%;
   }
+  .title {
+    size: 48px;
+    color: red;
+    font-weight: bold;
+    font-family: $font-family-heading;
+  }
 }
 .lock-scroll {
   .header {

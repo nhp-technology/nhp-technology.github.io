@@ -18,7 +18,7 @@ url    : "https://www.nhp-technology.com" # the base hostname & protocol for you
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : NHP Technology company
-email      : tech@nhp-technology.com #this is also the email contact forms will go to
+email      : contact@nhp-technology.com #this is also the email contact forms will go to
 description: "Navigate. Harmonize. Perform."
 author     : NHP Technology
 # logo:     #optional, defaults to site title

@@ -1,4 +1,5 @@
-baseurl: 'https://www.nhp-technology.com'
+url: 'https://nhp-technology.com'
+baseurl: '/'
 permalink: pretty
 title: 'NHP Technology'
 email: 'contact@nhp-technology.com'

@@ -1,4 +1,5 @@
 .header {
+  font-size: 50px;
   color: $primary;
   background-color: #ffffff;
   display: flex;
@@ -18,8 +19,9 @@
     width: 100%;
   }
   .title {
-    size: 48px;
-    color: red;
+    size: 100px;
+    font-size: 40px;
+    color: black;
     font-weight: bold;
     font-family: $font-family-heading;
   }

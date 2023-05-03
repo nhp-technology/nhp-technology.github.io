@@ -1,3 +1,24 @@
+.banner-strip {
+  height:10px;
+  padding:0 0 0 0;
+  margin: 0 0 0 0;
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+  .banner-strip-col {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+  .banner-strip-col-red {
+    background-color: #A41E22;
+  }
+  .banner-strip-col-black {
+    background-color: $black;
+  }
+  .banner-strip-col-gold {
+    background-color: $gold;
+  }
+}
 .header {
   font-size: 50px;
   color: $primary;

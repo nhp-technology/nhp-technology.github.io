@@ -4,10 +4,10 @@ title: 'NHP Technology'
 email: 'contact@nhp-technology.com'
 
 logo:
-  mobile: "images/logo/NHP_logo_64.png"
-  mobile_height: "32px"
-  mobile_width: "85px"
-  desktop: "images/logo/NHP_logo_64.png"
+  mobile: "images/logo/logo.svg"
+  mobile_height: "64px"
+  mobile_width: "140px"
+  desktop: "images/logo/logo.svg"
   desktop_height: "64px"
   desktop_width: "140px"
 
